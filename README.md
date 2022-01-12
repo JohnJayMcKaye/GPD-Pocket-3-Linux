@@ -38,7 +38,7 @@ ffplay /dev/video3
 ```
 
 ### Sound 
-```
+
 Open a terminal and type 
 ```
 sudo nano /etc/modprobe.d/alsa.conf
