@@ -3,7 +3,6 @@ Useful commads for Linux at GPD Pocket 3
 
 ![image](https://nwzimg.wezhan.net/contents/sitefiles3601/18006016/images/5214381.png)
 
-```
 ### Screen Orientation
 #### X11
 ```
