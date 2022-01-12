@@ -49,7 +49,7 @@ Type
 options snd-intel-dspcfg dsp_driver=1
 ```
 into that file and hit save.
-```
+
 ## ToDo
 * GRUB Menu Orientation
 * Stylus Buttons Remap
