@@ -39,8 +39,16 @@ ffplay /dev/video3
 
 ### Sound 
 ```
-Open a terminal and type “sudo nano /etc/modprobe.d/alsa.conf” (without quotes) to create a new audio configuration file.
-Type “options snd-intel-dspcfg dsp_driver=1” into that file and hit save.
+Open a terminal and type 
+```
+sudo nano /etc/modprobe.d/alsa.conf
+```
+to create a new audio configuration file.
+Type 
+```
+options snd-intel-dspcfg dsp_driver=1
+```
+into that file and hit save.
 ```
 ## ToDo
 * GRUB Menu Orientation
